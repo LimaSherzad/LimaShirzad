@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lima Sherzad</h1>
-<h3 align="center">Software Engineer | Java | Spring Boot | React | Next.js</h3>
+<h3 align="center">Software Engineer | web devolpers</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limashirzad" alt="limashirzad" /></a> </p>
 
